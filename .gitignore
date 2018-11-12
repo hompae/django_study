@@ -4,3 +4,5 @@
 __pycache__
 db.sqlite3
 .DS_Store
+
+# 여기에 적혀져 있는 파일은 올라가지 않는다고 함
